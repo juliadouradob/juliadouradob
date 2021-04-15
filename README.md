@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Júlia
+- 👀 I’m interested in in learning all types of programming languages
+- 🌱 I’m currently learning Python
